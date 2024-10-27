@@ -19,6 +19,15 @@ Li et al., IEEE AIID 2021
 [Weak Augmentation Guided Relational Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/10540667?casa_token=Z6tggRpPZdYAAAAA:CBlbpl-pyi9ZOouDDsQ3TgFIL_1c55-Jy7iB1kFu1Hr7-YhwskbgsW_h9jM3aEOD_bJNSGs_Cls)
 Zheng, Mingkai, et al. (2022)
 
+[Colorful Image Colorization](https://arxiv.org/pdf/1603.08511)
+Richard Zhang, Phillip Isola, Alexei A. Efros (2016)
+
+[Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379)
+Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros (2016)
+
+
+
+
 ## Datasets
 * [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
 * [STL10](https://cs.stanford.edu/~acoates/stl10/)
