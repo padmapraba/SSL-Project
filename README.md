@@ -25,8 +25,8 @@ Richard Zhang, Phillip Isola, Alexei A. Efros (2016)
 [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379)
 Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros (2016)
 
-
-
+## Model Architecture
+We utilized a ResNet-18 architecture for our experiments. ResNet-18 is a convolutional neural network that is 18 layers deep, known for its ability to handle vanishing gradient problems through residual learning.
 
 ## Datasets
 * [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
