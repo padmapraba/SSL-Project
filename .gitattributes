@@ -1,2 +1,5 @@
 inpainting_model_gen_weights_final.pth filter=lfs diff=lfs merge=lfs -text
 inpainting_jigsaw/*.pth filter=lfs diff=lfs merge=lfs -text
+rot_jigsaw/caltech101_classification_model.pth filter=lfs diff=lfs merge=lfs -text
+rot_jigsaw/caltech101_best_downstream_model.pth filter=lfs diff=lfs merge=lfs -text
+rot_jigsaw/jigsaw_rotation_pretext_cross_entropy_model_STL10.pth filter=lfs diff=lfs merge=lfs -text
